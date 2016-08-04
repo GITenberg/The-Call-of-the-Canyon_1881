@@ -1,0 +1,38 @@
+_repo: The-Call-of-the-Canyon_1881
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Pearl Zane
+    - Gray, Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: Carley Burch leaves her high society life in New York City to reclaim
+  her fiancé, Glen Kilbourne, who had moved to the Wild West to recover from World
+  War I. She braves fierce ruffians, brutal elements and lack of civilization. Carley
+  must adapt to the rigorous life of the West. But will she be able to convince Glenn
+  to return to his "home" in New York? Will she be in time before a rival temptress
+  steals Glenn away?
+gutenberg_bookshelf: Western
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiancés -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Arizona -- Fiction'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- GITenberg
+title: The Call of the Canyon
+url: http://www.gutenberg.org/ebooks/1881
