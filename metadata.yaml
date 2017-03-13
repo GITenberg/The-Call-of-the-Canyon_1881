@@ -1,5 +1,8 @@
 _repo: The-Call-of-the-Canyon_1881
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Grey, Zane
@@ -17,6 +20,8 @@ description: Carley Burch leaves her high society life in New York City to recla
   must adapt to the rigorous life of the West. But will she be able to convince Glenn
   to return to his "home" in New York? Will she be in time before a rival temptress
   steals Glenn away?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1881#The-Call-of-the-Canyon
 gutenberg_bookshelf: Western
 gutenberg_issued: '1999-09-01'
 gutenberg_type: Text
